@@ -1,0 +1,22 @@
+.project {
+    min-height: 500px;
+    text-align: center;
+}
+
+.project-container {
+    display: flex;
+    justify-content: flex-start;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.project-image {
+    width: 25vw;
+}
+
+.project-spec {
+    width: 100%;
+    margin-top:4rem;
+    margin-bottom: 2rem;
+}

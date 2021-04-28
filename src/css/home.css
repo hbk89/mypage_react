@@ -1,0 +1,22 @@
+.home {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    background-attachment: fixed;
+    background-repeat: unset;
+    color:white;
+}
+
+.home-text {
+    font-size: 4vw;
+}
+
+.Project {
+    min-height: 500px;
+}
+
+.Contact {
+    min-height: 500px;
+}
